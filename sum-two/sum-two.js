@@ -3,6 +3,7 @@
  * @param {number} target
  * @return {number[]}
  */
+
 var twoSum = function(nums, target) {
     // 1. use brute force method
     for(let i = 0; i < nums.length; i++) {
